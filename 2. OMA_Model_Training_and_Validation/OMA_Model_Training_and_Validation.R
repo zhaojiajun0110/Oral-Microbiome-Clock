@@ -1,5 +1,5 @@
 # ==============================================================================
-# Script: 02_OMA_Clock_Construction.R
+# Script: OMA_Clock_Construction.R
 # Purpose: Construct the Oral Microbiome Age (OMA) clock using Random Forest.
 # Analysis: 10-fold CV in Discovery and validation in two external cohorts.
 # ==============================================================================
