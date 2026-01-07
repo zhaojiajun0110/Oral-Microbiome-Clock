@@ -1,5 +1,5 @@
 # ==============================================================================
-# Script: 04_OMAA_Contribution_Analysis.R
+# Script: OMAA_Predictors_Diet_and_Medication.R
 # Purpose: Assess the influence of dietary patterns and medication on OMAA.
 # Methodology: Random Forest Regression, 10-fold CV, and SHAP value analysis.
 # ==============================================================================
