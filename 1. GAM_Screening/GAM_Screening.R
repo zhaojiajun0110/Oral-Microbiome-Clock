@@ -1,5 +1,5 @@
 # ==============================================================================
-# Script: 01_GAM_Screening.R
+# Script: GAM_Screening.R
 # Purpose: Screen age-associated oral microbial genera using GAM.
 # Strategy: Discovery (FDR < 0.05) and Validation (P < 0.05)
 # ==============================================================================
