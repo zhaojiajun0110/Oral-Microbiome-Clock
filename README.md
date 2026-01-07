@@ -23,8 +23,6 @@ The code is organized into four main modules following the analytical workflow d
 * **Content:**
 * Model training on the **Discovery set** (NHANES 2009-2010).
 * Model validation on the **Validation set** (NHANES 2011-2012) and Independent external validation set (doi: 10.1128/mSystems.00630-19)
-        
-        .
 * Calculation of **OMAA Score** (the residual of OMA regressed on Chronological Age).
 * Feature importance analysis using **SHAP values**.
 
