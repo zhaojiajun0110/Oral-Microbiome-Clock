@@ -1,5 +1,5 @@
 # ==============================================================================
-# Script: 03_OMAA_Disease_Incremental_Value.R
+# Script: OMAA_Disease_Incremental_Value.R
 # Purpose: Evaluate OMAA incremental value for chronic diseases.
 # Output: Delta AUC and Bootstrap P values for the Validation Set.
 # ==============================================================================
