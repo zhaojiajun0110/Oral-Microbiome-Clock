@@ -22,7 +22,7 @@ outcomes <- c(
 # Baseline covariates
 covariates <- c(
   "age", "gender", "race", "educational_level", "marriage_status", 
-  "PIR", "drinking_status", "smoking_status", "sleep", "BMI", "met", "tooth count"
+  "PIR", "drinking_status", "smoking_status", "sleep", "BMI", "met", "tooth_count"
 )
 
 # Model Predictors
