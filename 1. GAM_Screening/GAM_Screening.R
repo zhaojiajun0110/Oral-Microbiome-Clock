@@ -63,7 +63,6 @@ sig_genera_list <- res_09 %>%
   arrange(p_09)
 
 # 4. Export Filtered Feature Matrix --------------------------------------------
-# Extract SEQN and selected genera for downstream OMA clock training
 final_features <- sig_genera_list$Genus
 
 df_09_sig <- df_09 %>% select(SEQN, RIDAGEYR, all_of(final_features))
