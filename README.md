@@ -17,7 +17,7 @@ The code is organized into four main modules following the analytical workflow d
 * **Purpose:** Identification of age-associated oral microbial genera.
 * **Method:** Utilizes **Generalized Additive Models (GAMs)** to identify genera with significant linear or non-linear correlations with chronological age, adjusting for gender and race.
 
-### 2. `02_OMAA_Model_Training_and_Validation.R`
+### 2. `02_OMAA_Construction.R`
 
 * **Purpose:** Training the random forest age predictor and calculating OMAA Score.
 * **Content:**
