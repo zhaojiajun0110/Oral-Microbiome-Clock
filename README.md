@@ -1,4 +1,3 @@
-<img width="629" height="217" alt="image" src="https://github.com/user-attachments/assets/43751d36-3b08-4466-bc71-f2502371d4a9" /># Oral-Microbiome-Clock: Predicting Biological Age and Host Health
 
 This repository contains the R implementation and analytical pipeline for the paper: **"Oral microbiome signatures predict biological age and host health"**.
 
