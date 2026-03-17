@@ -1,6 +1,6 @@
-# Oral-Microbiome-Clock: Predicting Biological Age and Host Health
+<img width="629" height="217" alt="image" src="https://github.com/user-attachments/assets/43751d36-3b08-4466-bc71-f2502371d4a9" /># Oral-Microbiome-Clock: Predicting Biological Age and Host Health
 
-This repository contains the R implementation and analytical pipeline for the paper: **"An oral microbiome clock predicts biological age and host health"**.
+This repository contains the R implementation and analytical pipeline for the paper: **"Oral microbiome signatures predict biological age and host health"**.
 
 ## Overview
 
@@ -23,6 +23,8 @@ The code is organized into four main modules following the analytical workflow d
 * **Content:**
 * Model training on the **discovery cohort** (NHANES 2009-2010).
 * Model validation on the **validation cohort** (NHANES 2011-2012) and independent external validation cohort (doi: 10.1128/mSystems.00630-19)
+        
+        
         
         
 * Calculation of **OMAA Score** (the residual of Predicted age regressed on Chronological Age).
