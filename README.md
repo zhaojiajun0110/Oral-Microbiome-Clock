@@ -3,7 +3,7 @@ This repository contains the R implementation and analytical pipeline for the pa
 
 ## Overview
 
-We developed and validated a robust **Oral Microbiome Age Acceleration (OMAA) Score**  using machine learning (random forest) on 16S rRNA gene profiles from two large NHANES cohorts and one independent dataset consisting of 2,550 samples. This repository provides the code to replicate the identification of age-associated genera, the construction of the OMAA score, and the evaluation of **OMAA Score** as a predictor for mortality, frailty, and chronic diseases.
+We developed and validated a robust **Oral Microbiome Age Acceleration (OMAA) Score**  using machine learning (random forest) on 16S rRNA gene profiles from two large NHANES cohorts and one independent dataset consisting of 1,293 samples. This repository provides the code to replicate the identification of age-associated genera, the construction of the OMAA score, and the evaluation of **OMAA Score** as a predictor for mortality, frailty, and chronic diseases.
 
 ---
 
@@ -22,6 +22,8 @@ The code is organized into four main modules following the analytical workflow d
 * **Content:**
 * Model training on the **discovery cohort** (NHANES 2009-2010).
 * Model validation on the **validation cohort** (NHANES 2011-2012) and independent external validation cohort (doi: 10.1128/mSystems.00630-19)
+        
+        
         
         
         
